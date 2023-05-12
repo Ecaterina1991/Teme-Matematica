@@ -1,0 +1,5 @@
+A se calcula matematic si in limbaj php:
+
+- perimetrul unui triunghi cu laturile de 12 cm, 16 cm si 20 cm (p = a + b + c)
+
+- aria unui cerc cu raza 5 cm (pi*r^2)
